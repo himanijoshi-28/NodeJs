@@ -1,0 +1,25 @@
+{
+  "applications": [
+    {
+      "id": 2,
+      "company": "Google2",
+      "role": "SWE",
+      "status": "applied",
+      "appliedDate": "2026-06-01"
+    },
+    {
+      "id": 3,
+      "company": "Google3",
+      "role": "SWE",
+      "status": "applied",
+      "appliedDate": "2026-06-01"
+    },
+    {
+      "id": 4,
+      "company": "Google4",
+      "role": "SWE",
+      "status": "applied",
+      "appliedDate": "2026-06-01"
+    }
+  ]
+}
